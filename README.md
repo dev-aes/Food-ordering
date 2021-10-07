@@ -1,4 +1,4 @@
-# Sample Food Ordering App
+# Food Ordering App
 
 ---
 
@@ -11,7 +11,7 @@ Ordering Process:
 
 -   Calculate Price and Tax for user’s order
 
--   User may apply his coupon code and calculate 10% less from total amount
+-   User may apply his coupon code and calculate (discounted percentage) less from total amount
 
 -   Save Order and view order summary
 
